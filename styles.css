@@ -1,0 +1,16 @@
+p {
+    color: rgba(43, 226, 61, 0.775);
+margin: 50px;   
+background-color: brown
+}
+#lorem{
+    color: rgba(255, 98, 0, 0.689);
+    background-color: aqua;
+    border-radius: 100%;
+    border-bottom: 50%;
+    font: message-box;
+    border box-shadow: 40px;
+}
+nav{
+ color: chocolate;
+}
