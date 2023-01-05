@@ -14,3 +14,16 @@ background-color: brown
 nav{
  color: chocolate;
 }
+#third 
+{
+    background-color: rgb(222, 27, 27);
+    border-top: 50%;
+border-radius: 500%;
+size: 100px;
+height: 50px;
+}
+li {
+    height: 40px;
+    font-weight: 100;
+    font-size: 100px;
+}
